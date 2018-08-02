@@ -1,0 +1,18 @@
+.root{-fx-background-image:url("background.jpg");
+	-fx-background-size: stretch;
+	-fx-background-repeat: no-repeat;
+}
+
+.toggle-button{
+	-fx-font: 10px "Tahoma";
+	-fx-font-weight: lighter;
+	-fx-text-fill: dimgrey;
+	-fx-background-color: white;
+}
+
+.toggle-button:hover{
+	-fx-font: 10px "Tahoma";
+	-fx-font-weight: lighter;
+	-fx-text-fill: dimgrey;
+	-fx-background-color: red;
+}
